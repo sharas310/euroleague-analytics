@@ -1,0 +1,9 @@
+euroleague-api
+pandas>=2.0
+numpy
+scikit-learn
+scipy
+pyarrow
+openpyxl
+matplotlib
+requests
